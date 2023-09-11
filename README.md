@@ -23,6 +23,7 @@ family_size: tamanho da família do cliente.
 Para executar as análises apresentadas neste projeto, você pode utilizar as consultas SQL fornecidas no ambiente do Databricks. Certifique-se de ter os dados da tabela customers_segmentation disponíveis no ambiente antes de executar as consultas.
 
 A tabela com os dados que foram utilizados está no link (https://www.kaggle.com/code/fabiendaniel/customer-segmentation)
+Link para o notebook em Databricks: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6744691951881269/4460169280739294/4488794161652719/latest.html
 
 
 # Conclusões
@@ -81,6 +82,7 @@ family_size: customer's family size.
 To run the analyses presented in this project, you can use the SQL queries provided in the Databricks environment. Make sure you have the data from the customers_segmentation table available in the environment before running the queries.
 
 The table with the data used is at the following link (https://www.kaggle.com/code/fabiendaniel/customer-segmentation)
+Link to the notebook on Databricks: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6744691951881269/4460169280739294/4488794161652719/latest.html
 
 
 # Conclusions
